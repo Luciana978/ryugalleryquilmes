@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Ryugallery — Estudio de Tatuajes · Quilmes",
+  title: "Ryugalleryquilmes — Estudio de Tatuajes · Quilmes",
   description: "Estudio de tatuajes en Quilmes, Buenos Aires. Arte permanente con identidad.",
 };
 

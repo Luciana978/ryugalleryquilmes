@@ -10,6 +10,7 @@ import Testimonios from "@/components/Testimonios";
 import CTA from "@/components/CTA";
 import Footer from "@/components/Footer";
 import WaFloat from "@/components/WaFloat";
+import Staff from "@/components/Staff";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
         <Hero />
         <MarqueeBar />
         <Artist />
+        <Staff />
         <Scarcity />
         <Portfolio />
         <Proceso />

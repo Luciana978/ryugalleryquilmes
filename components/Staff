@@ -4,8 +4,8 @@ import { useState } from "react";
 
 const FILTERS = [
   { key: "todos", label: "Todos" },
-  { key: "Ivan", label: "Japonés" },
-  { key: "Seba", label: "Black & grey" },
+  { key: "Ivan", label: "Iván" },
+  { key: "Seba", label: "Seba" },
 ];
 
 const ITEMS = [

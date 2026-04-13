@@ -46,8 +46,8 @@ export default function Artist() {
               Head Tattoo Artist
             </p>
             <p style={{ fontSize: 15, color: "var(--ink-mid)", lineHeight: 1.8, maxWidth: 420, marginBottom: 48, fontWeight: 300 }}>
-              Más de diez años convirtiendo ideas en arte permanente.
-              Especializado en el tradicional japonés y black &amp; grey de alta precisión.
+              Más de veintiocho años convirtiendo ideas en arte permanente.
+              Especializado en el tradicional japonés  de alta precisión.
               Cada pieza nace de una conversación, no de un catálogo.
             </p>
             <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginBottom: 48 }}>
